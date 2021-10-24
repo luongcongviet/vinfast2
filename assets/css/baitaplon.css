@@ -12,9 +12,8 @@ body{
     width:1260px;
     height: 650px;
     background-image: url(../image/vinfast3.png);
-    margin:0px auto;
-    padding: 0px 05px;
-    position: absolute;
+    margin: 0px auto;
+    padding: 0px 5px;
 }
 @keyframes slogan {
     0% { color: white}
